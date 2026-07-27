@@ -1,0 +1,21 @@
+# === 機密：サービスアカウント鍵・認証情報は絶対に commit しない ===
+china-ec-sa.json
+*-sa.json
+*service-account*.json
+*service_account*.json
+credentials*.json
+client_secret*.json
+*.pem
+*.key
+secrets/
+.secrets/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
