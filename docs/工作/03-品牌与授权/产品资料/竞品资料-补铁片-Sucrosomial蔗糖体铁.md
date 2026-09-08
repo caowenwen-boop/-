@@ -1,7 +1,11 @@
-# 竞品资料 · 补铁片（Sucrosomial® 蔗糖体有机铁 · 口溶粉剂）
+# 竞品资料 · SiderAL Folico（PharmaNutra · Sucrosomial® 蔗糖体铁 · 口溶袋）
 
+> **品牌/产品名**：SiderAL® Folico（意大利 PharmaNutra 出品）
+> 包装标识：Integratore alimentare a base di Ferro Sucrosomiale® e Vitamine, con edulcoranti（蔗糖体铁+维生素+甜味剂的膳食补充剂）；Ferro Sucrosomiale® 为专利 n. WO 2014/009806。
 > 用途：与自有「补铁片3.0」做**产品对比介绍书**的竞品素材。以下为对方产品宣称，仅作内部对比参考，未经我方核实。
 > 记录日期：2026-09
+>
+> ⚠ **规格待确认**：盒面标注「**20 bustine（20袋）**」，而先前文字资料写「30条/盒」——两者不一致，可能为不同规格版本或笔误，做对比前须确认（影响价格/日均成本核算）。
 
 ## 一、成分
 - **铁含量**：每袋元素铁 30mg
