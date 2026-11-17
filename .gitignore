@@ -10,6 +10,14 @@ client_secret*.json
 secrets/
 .secrets/
 
+# 环境变量与密钥
+.env
+.env.*
+*.env
+config.local.*
+secrets.yaml
+secrets.yml
+
 # OS
 .DS_Store
 Thumbs.db
@@ -19,3 +27,8 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# 临时与缓存
+*.log
+*.tmp
+.cache/
